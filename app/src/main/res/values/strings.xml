@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Contacts Mobile App</string>
+    <string name="txt_title">A Contacts</string>
+    <string name="instructions">Select a Contact:</string>
+    <string name="btn_Contact1">Amelia Brown</string>
+    <string name="txt_Contact1">Amelia Brown</string>
+    <string name="txt_Address1">123 Main St Baltimore, MD 12345</string>
+    <string name="txt_Phone1">555 123 4543</string>
+    <string name="txt_Email1">a.brown@email.com</string>
+    <string name="btn_Contact2">Amber Jones</string>
+    <string name="txt_Contact2">Amber Jones</string>
+    <string name="txt_Address2">456 1st Ave Baltimore, MD 12345</string>
+    <string name="txt_Phone2">555 456 6776</string>
+    <string name="txt_Email2">a.jones@email.com</string>
+    <string name="btnBack1">Back</string>
+    <string name="btnBack2">Back</string>
+</resources>
